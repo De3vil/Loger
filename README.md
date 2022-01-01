@@ -32,7 +32,7 @@
 
 # Installation:
     ````
-    1. git clone https://github.com/De3vil/Loger
+    1. git clone https://github.com/De3vil/Loger.git
     2. cd Loger
     3. bash insatll.sh
     ````
