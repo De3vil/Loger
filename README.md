@@ -36,6 +36,8 @@
     2. cd Loger
     3. bash insatll.sh
     ````
+# Screenshot
+![](https://github.com/De3vil/Loger/blob/main/Screenshot%20.png)
 
     
  ## [+] Find Me on :
